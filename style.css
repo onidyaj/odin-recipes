@@ -1,0 +1,22 @@
+.title {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.list {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+body {
+    background-color: white;
+}
+
+.recipe {
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+}
